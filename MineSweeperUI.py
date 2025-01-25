@@ -1,6 +1,5 @@
 import numpy
 import random
-from colorama import Fore
 from tkinter import *
 from tkinter.font import Font
 
